@@ -1,4 +1,4 @@
 logo
 ====
 
-Space API Logo
+Space API Logo. QR code created [here](http://qrcode.littleidiot.be/)
